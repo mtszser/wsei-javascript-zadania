@@ -9,4 +9,4 @@ console.log(5 * 2); // = 10
 //Zadanie 3
 console.log("Hello World"); // Hello World
 console.log(Hello World); // błąd
-console.log("Hello World); //błąd
+console.log("Hello World); // błąd
