@@ -102,3 +102,4 @@ const game1 = new Game();
 const game2 = new Game();
 game1.changeNumber();
 game2.checkNumber();
+
